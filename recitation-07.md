@@ -19,7 +19,8 @@ Complete the `reachable` implementation and test with `test_reachable`. Think ab
 **2** What is the work of `reachable`, assuming $n$ nodes and $m$ edges?
 
 **put answer in answers.md**  
-
+  for n nodes and m edges, the work of reachable should be:
+    W(n) = 
 .  
 .  
 .  
